@@ -1,0 +1,13 @@
+{
+  "name": "mpd2",
+  "version": "1.0.0",
+  "description": "mpd2 project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
